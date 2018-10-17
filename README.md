@@ -52,7 +52,7 @@
 
 - for exemple `01 1 12`, `01`--> name of room can be string or number, `1`--> x coordinate, `12`--> y coordinate.
 
--`0-2` --> connection between rooms, means room `0` connecte to `2` and `2` connecte to `0`.
+- `0-2` --> connection between rooms, means room `0` connecte to `2` and `2` connecte to `0`.
 
 - this map give you this result:
 
