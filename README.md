@@ -10,7 +10,7 @@
 
 * Using [backtracking](https://en.m.wikipedia.org/wiki/Backtracking) to find the paths, and an graph algorithm.
 
-## What do you need to compile push_swap ?
+## What do you need to compile Lem_in ?
 
 * gcc or clang
 
