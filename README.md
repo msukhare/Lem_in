@@ -24,7 +24,7 @@
 
 * Use `make` to compile `lem_in`.
 
-## How does Lem_`n work ?
+## How does Lem_in work ?
 
 * `./lem_in < MAP` map is define like that:
 ```
